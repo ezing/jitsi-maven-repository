@@ -11,27 +11,27 @@
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-background-timer</artifactId>
-      <version>2.0.0-jitsi-2</version>
+      <version>2.0.0-jitsi-1</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
-      <artifactId>react-native-fetch-blob</artifactId>
-      <version>0.10.8-jitsi-3</version>
+      <artifactId>react-native-fast-image</artifactId>
+      <version>4.0.14-jitsi-1</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-immersive</artifactId>
-      <version>1.1.0-jitsi-3</version>
+      <version>1.1.0-jitsi-1</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-keep-awake</artifactId>
-      <version>2.0.6-jitsi-2</version>
+      <version>2.0.6-jitsi-1</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-locale-detector</artifactId>
-      <version>1.0.0-jitsi-2</version>
+      <version>1.0.0-jitsi-1</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
@@ -41,27 +41,42 @@
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-vector-icons</artifactId>
-      <version>4.4.2-jitsi-2</version>
+      <version>4.4.2-jitsi-1</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-webrtc</artifactId>
-      <version>1.58.2-jitsi-8</version>
+      <version>1.63.0-jitsi-1</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native-calendar-events</artifactId>
-      <version>1.5.0-jitsi-1</version>
+      <version>1.6.2-jitsi-1</version>
     </dependency>
     <dependency>
       <groupId>com.facebook.react</groupId>
       <artifactId>react-native</artifactId>
-      <version>0.51.0</version>
+      <version>0.55.4</version>
     </dependency>
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
       <version>27.0.2</version>
+    </dependency>
+    <dependency>
+      <groupId>com.dropbox.core</groupId>
+      <artifactId>dropbox-core-sdk</artifactId>
+      <version>3.0.8</version>
+    </dependency>
+    <dependency>
+      <groupId>com.facebook.react</groupId>
+      <artifactId>react-native-google-signin</artifactId>
+      <version>1.0.0-rc3-jitsi-1</version>
+    </dependency>
+    <dependency>
+      <groupId>com.facebook.react</groupId>
+      <artifactId>react-native-linear-gradient</artifactId>
+      <version>2.4.0-jitsi-1</version>
     </dependency>
   </dependencies>
 </project>
